@@ -46,6 +46,8 @@ description: "The romance novel or romantic novel discussed in this article is t
   \ Their books were sold in North America by Harlequin Enterprises Ltd, which began\
   \ direct marketing to readers and allowing mass-market merchandisers to carry the\
   \ books.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17642#Romance
 gutenberg_issued: '2006-01-31'
 gutenberg_type: Text
 identifiers:
