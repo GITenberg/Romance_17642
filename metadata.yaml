@@ -1,0 +1,65 @@
+_repo: Romance_17642
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Józef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+  - agent_name: Ford, Ford Madox
+    aliases:
+    - Huffer, Ford
+    - Hueffer, Ford Hermann
+    - Chaucer, Daniel
+    - Hueffer, Ford H. Madox
+    - Hueffer, Ford Madox
+    birthdate: 1873
+    deathdate: 1939
+    gutenberg_agent_id: '1016'
+    url: http://www.gutenberg.org/2009/agents/1016
+    wikipedia: http://en.wikipedia.org/wiki/Ford_Madox_Ford
+description: "The romance novel or romantic novel discussed in this article is the\
+  \ mass-market literary genre. Novels of this type of genre fiction place their primary\
+  \ focus on the relationship and romantic love between two people, and must have\
+  \ an \"emotionally satisfying and optimistic ending.\" There are many subgenres\
+  \ of the romance novel including fantasy, historical romance, paranormal fiction,\
+  \ and science fiction. Walter Scott defined the literary fiction form of romance\
+  \ as \"a fictitious narrative in prose or verse; the interest of which turns upon\
+  \ marvellous and uncommon incidents\".\nA thriving genre of works conventionally\
+  \ referred to as \"romance novels\" existed in ancient Greece. Some scholars see\
+  \ precursors to modern genre fiction romance novels in literary fiction of the 18th\
+  \ and 19th centuries, including Samuel Richardson's sentimental novel Pamela, or\
+  \ Virtue Rewarded (1740) and the novels of Jane Austen.\nAusten inspired Georgette\
+  \ Heyer, the British author of historical romance set around the time Austen lived,\
+  \ as well as detective fiction, who technically created the subgenre Regency Romance.\
+  \ Heyer's first romance novel, The Black Moth (1921), was set in 1751.\nThe British\
+  \ company Mills and Boon began releasing escapist fiction for women in the 1930s.\
+  \ Their books were sold in North America by Harlequin Enterprises Ltd, which began\
+  \ direct marketing to readers and allowing mass-market merchandisers to carry the\
+  \ books.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17642'
+  wikidata: Q7362392
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Romance
+url: http://www.gutenberg.org/ebooks/17642
+wikipedia:
+- https://en.wikisource.org/wiki/Romance_(novel)
+- https://en.wikipedia.org/wiki/Romance_(novel)
